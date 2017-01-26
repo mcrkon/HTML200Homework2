@@ -1,0 +1,14 @@
+form {
+  width: 100%;
+  padding: 13px 22px;
+  box-sizing: border-box;
+  background-color: grey;
+  text-align: center;
+
+}
+
+input {
+  background-color: aquamarine;
+  color: black;
+}
+
